@@ -9,6 +9,7 @@ For more information on Next.js, check out the [Next.js Documentation](https://n
 
 ### First thing to do!!
 
+- try to work on the vscode project directory terminal it will help you from directory conflict 
 - Install Next Js while installing the next js select y for the src and tailwind css
 - you will gonna work on the src folder we will later create and separate folder for the components & other pages
 - you can use the tailwind css classes in the components and pages
