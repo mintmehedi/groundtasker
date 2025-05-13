@@ -3,6 +3,22 @@
 This guide helps all team members get GroundTasker running locally on their machines.
 
 ---
+We will use Next.js for the frontend and Tailwind CSS for styling. The backend will be handled by a separate API, which you can set up as per your requirements.
+Note "" React JS and Next JS are different things, Next JS is a framework built on top of React JS.""
+For more information on Next.js, check out the [Next.js Documentation](https://nextjs.org/docs/getting-started).
+
+### First thing to do!!
+
+- Install Next Js while installing the next js select y for the src and tailwind css
+- you will gonna work on the src folder we will later create and separate folder for the components & other pages
+- you can use the tailwind css classes in the components and pages
+- then run the project using npm run dev
+- here if you face any issue just copy the error and paste it on the chat gpt before explaining the issue state about your system and what you are trying to do
+- then again npm run dev and check the localhost:3000 or next js port 
+- then install git in your system globaly
+- clone the repo 
+- add some changes in the read me for testing purpose or add something in the src folder
+- then good to go for anyhing or issues use chat gpt is highly recommended 
 
 ## 🧰 Prerequisites (Install These First)
 
@@ -91,9 +107,3 @@ kill -9 [PID]
 ```
 
 Or just restart your machine.
-
----
-
-## 🧠 Need Help?
-
-Ping Mehedi on Discord or GitHub if you get stuck!
